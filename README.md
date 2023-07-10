@@ -20,6 +20,9 @@ The code provides an implementation of a **Naive Bayes-based spam filter**. It a
 
 The algorithm allows for the identification and prediction of individual email addresses. The user can input the email name, and the algorithm determines whether it is classified as spam or ham.
 
+## Important:
+* Before running the code, make sure to extract the `all.zip` file into the main folder.
+
 # Example
 ## Accuracy without additive smoothing factor
 ![](Images/1.png)
